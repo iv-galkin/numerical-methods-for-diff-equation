@@ -32,7 +32,6 @@ $$
 ```bash
 pip install numpy matplotlib seaborn
 ```
-
 ---
 
 ## Использование
@@ -96,8 +95,3 @@ y = [-exp(x-1)*x*x+2*exp(-x+1)*x*x for x in tm]
 ```
 
 и замените её на выражение для нового уравнения.
-
----
-
-## Используемые библиотеки:
-NumPy, Matplotlib, Seaborn
